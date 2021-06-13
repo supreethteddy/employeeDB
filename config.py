@@ -1,0 +1,6 @@
+customhost = "empdata.ckm3qt2to19j.ap-south-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "asd12345"
+customdb = "employee"
+custombucket = "first-employee-project"
+customregion = "ap-south-1"
